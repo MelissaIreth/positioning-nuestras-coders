@@ -1,1 +1,72 @@
 /* Inserta tu código aqui */
+*{
+	font-family: 'Source Code Pro', monospace;
+	margin:20px;
+	padding: 0;
+}
+
+hr{
+	width: 80px;
+}
+
+.contenedor{
+	margin: 50px;
+	background-color: #f9f9f9;
+	opacity: 0.7;
+	position: absolute;
+	overflow: auto;
+}
+
+.img1{
+	background-image: url(../img/profile-1.png);
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	float: left;
+
+}
+
+.img2{
+	background-image: url(../img/profile-2.png);
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	float: left;
+
+}
+
+.img3{
+	background-image: url(../img/profile-3.png);
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+	clear: left;
+
+}
+
+.img4{
+	background-image: url(../img/profile-4.png);
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+
+
+}
+
+.img5{
+	background-image: url(../img/profile-5.png);
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+}
+
+.img6{
+	background-image: url(../img/profile-6.png);
+	width: 211px;
+	height: 211px;
+	display: inline-block;
+}
+
+span{
+	color: white;
+}
